@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.iar</groupId>
   <artifactId>iar_core_beta</artifactId>
-  <version>1.7.2</version>
+  <version>1.7.4</version>
   <name>iar-core-beta</name>
   <url>http://maven.apache.org</url>
 </project>
